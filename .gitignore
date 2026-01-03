@@ -5,7 +5,7 @@
 */*.bam
 */*.bai
 # ignore intermediate analysis files
-*/*.tmp
-*/*.intermediate
+*.tmp
+*.intermediate
 # ignore log files
 */*.log
